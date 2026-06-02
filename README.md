@@ -31,6 +31,7 @@ If you do not have Python installed, please download and install the latest vers
 
 ### Step 1: Clone or Download
 Ensure you have the project files extracted in your desired directory.
+Or Download The [.exe](https://github.com/muhammadzidane632/FruitSender/releases/download/v1.0.0/FruitSender.exe) File
 
 ### Step 2: Setup Virtual Environment
 It is highly recommended to run this project within a Python virtual environment to avoid dependency conflicts. Open your terminal in the project directory and execute:
