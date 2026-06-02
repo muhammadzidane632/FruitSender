@@ -1,4 +1,4 @@
-# Fruit Sender - Self Account Booting Auto Messenger (not Use Any Bot)
+# Fruit Sender - Self Account Botting Auto Messenger (not Use Any Bot)
 
 <p align="center">
   <img src="mockup.png" alt="Fruit Sender Mockup">
